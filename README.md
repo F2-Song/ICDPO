@@ -44,6 +44,11 @@ sh exec.sh
 ```
 You can further change the value of each slot and set another `id` to try different settings.
 
+## ⚠️Caution
+ICDPO is a research project and is not intended for other use. We observe that the data involved in this work may indispensably contain sensitive, offensive, and misleading content, whose presence does not represent our attitudes, but is solely for research and should not be used or distributed outside of research contexts. We do not guarantee the safety of the generated content. Please use it at your own risk.
+
+We are committed to establishing a more inclusive and ethically sound era of AI technology, which can be applied to legitimate needs and generate content that aligns with universally positive human values. 
+
 ## Citation
 If this work is helpful to you, welcome to cite our paper as:
 ```

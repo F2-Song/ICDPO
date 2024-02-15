@@ -13,7 +13,7 @@ if "hh" in args.task:
     else:
         raise Exception("Invalid task!")
 else:
-    assert "SytheticGPT" in args.task
+    assert "SyntheticGPT" in args.task
     path += "{}_test_{}_demos/test.json".format(args.task, args.retrieval)
 
 data_manager = Data_Manager(path, args.task)
